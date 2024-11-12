@@ -89,11 +89,11 @@ Nossa solução foi apresentada em uma competição e foi bem recebida pelos jur
 4. **Crie um arquivo `.env`** na raiz do projeto e adicione as seguintes variáveis de ambiente:
 
    ```env
-   MONGO_STR=
-   TWILIO_ACCOUNT_SID=
-   TWILIO_AUTH_TOKEN=
-   TWILIO_PHONE_NUMBER=
-   MY_NUMBER=
+   MONGO_STR=''
+   TWILIO_ACCOUNT_SID=''
+   TWILIO_AUTH_TOKEN=''
+   TWILIO_PHONE_NUMBER=''
+   MY_NUMBER=''
    ```
 
 5. **Execute a aplicação**:
